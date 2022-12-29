@@ -1,5 +1,5 @@
 Name:		texlive-grabbox
-Version:	51052
+Version:	65223
 Release:	1
 Summary:	Read an argument into a box and execute the code afterwards
 Group:		Publishing
