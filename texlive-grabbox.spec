@@ -1,6 +1,6 @@
 Name:		texlive-grabbox
 Version:	65223
-Release:	1
+Release:	2
 Summary:	Read an argument into a box and execute the code afterwards
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grabbox
