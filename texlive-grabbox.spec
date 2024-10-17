@@ -3,7 +3,7 @@ Version:	65223
 Release:	2
 Summary:	Read an argument into a box and execute the code afterwards
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grabbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/grabbox
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grabbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grabbox.doc.r%{version}.tar.xz
